@@ -1,0 +1,28 @@
+# Punto Fiscal (apps)
+
+> Punto Fiscal son dos apps independientes para iPhone, para España. Punto Fiscal Autónomos muestra a los autónomos su calendario fiscal personalizado, con cuenta atrás y avisos 7, 3 y 1 días antes, y estima cuánto dinero apartar cada trimestre para el modelo 130 y el modelo 303. Punto Fiscal: nómina y Renta calcula el sueldo neto, el finiquito, la indemnización por despido, el paro y la baja médica, y simula la declaración de la Renta. Sin cuentas. Ninguna es de la Agencia Tributaria ni de ningún organismo público, ninguna presenta declaraciones, y los resultados son estimaciones orientativas.
+
+Datos clave (verificables en este sitio y en las fichas de la App Store):
+- Nombres: "Punto Fiscal Autónomos" y "Punto Fiscal: nómina y Renta". Editor: Borja Alventosa Julià (persona física). Contacto: borjawebspubli@gmail.com
+- Plataforma: iPhone. Idioma: español. Mercado: España.
+- Sin cuenta ni registro. Los datos que guardas en la app se quedan en el iPhone. Para calcular, la app envía al servidor de punto-fiscal.com los datos del formulario (sin nombre, correo ni NIF), que se usan para el cálculo y no se guardan.
+- Punto Fiscal Autónomos: no emite facturas, no muestra anuncios y no hace seguimiento. Descarga gratis; Pro opcional: 4,99 EUR al mes o 39,99 EUR al año, con 14 días de prueba gratuita. Incluye gratis el calendario fiscal con avisos y las calculadoras de cuota, retención, modelo 130 y modelo 303; Pro añade la hucha con la estimación trimestral, la regularización de la cuota, los escenarios y la exportación para el gestor.
+- Punto Fiscal: nómina y Renta: descarga gratis con anuncios de Google AdMob (con consentimiento donde la ley lo exige). Compras opcionales: Renta 2026 (4,99 EUR, pago único) y Punto Fiscal Plus (14,99 EUR al año), que quita los anuncios.
+- Privacidad: pago gestionado por Apple; RevenueCat valida las compras con un identificador anónimo; la consulta de versiones a la App Store solo envía la IP.
+- Límites: estimaciones orientativas, no asesoramiento fiscal, laboral ni jurídico; no garantizan ahorro ni devolución; no presentan declaraciones.
+- Descarga: próximamente en la App Store.
+
+## Apps
+- [Punto Fiscal (inicio)](https://borjeta.github.io/appPuntoFiscal/): las dos apps, para quién es cada una y preguntas frecuentes.
+- [Punto Fiscal Autónomos](https://borjeta.github.io/appPuntoFiscal/autonomos/): calendario fiscal, hucha para el modelo 130 y 303, calculadoras, precios y preguntas frecuentes.
+- [Punto Fiscal: nómina y Renta](https://borjeta.github.io/appPuntoFiscal/particulares/): sueldo neto, finiquito, despido, paro, baja médica y simulador de la Renta, precios y preguntas frecuentes.
+
+## Soporte y legal
+- [Soporte de Punto Fiscal Autónomos](https://borjeta.github.io/appPuntoFiscal/autonomos/soporte.html)
+- [Soporte de Punto Fiscal: nómina y Renta](https://borjeta.github.io/appPuntoFiscal/particulares/soporte.html)
+- [Política de privacidad (las dos apps)](https://borjeta.github.io/appPuntoFiscal/privacidad.html)
+- [Condiciones de las suscripciones y compras](https://borjeta.github.io/appPuntoFiscal/terminos-suscripcion.html)
+- [Aviso legal](https://borjeta.github.io/appPuntoFiscal/aviso-legal.html)
+
+## Web de calculadoras
+- [punto-fiscal.com](https://punto-fiscal.com/): calculadoras y guías de impuestos, trabajo y ayudas en España; su servidor hace los cálculos de las apps.
